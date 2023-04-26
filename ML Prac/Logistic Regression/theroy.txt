@@ -1,0 +1,5 @@
+Linear regression is a supervised learning algorithm used to predict a continuous output variable based on one or more input variables. It models the relationship between the input and output variables using a linear equation.
+
+Logistic regression, on the other hand, is a classification algorithm used to predict a binary or categorical output variable based on one or more input variables. It models the probability of the output variable belonging to a certain class, using a logistic function that maps the input variables to a value between 0 and 1.
+
+In summary, the main difference between linear regression and logistic regression is the type of output variable being predicted - continuous for linear regression and binary/categorical for logistic regression.

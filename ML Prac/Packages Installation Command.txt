@@ -1,0 +1,5 @@
+Scikit learn:	pip install -U scikit-learn
+tensorflow:		pip install tensorflow
+Pandas: 		pip install pandas
+Matplotlib:		pip install matplotlib
+seaborn:		pip install seaborn

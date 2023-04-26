@@ -1,0 +1,18 @@
+Theroy:
+
+TensorFlow is an open-source machine learning framework developed by Google. It allows users to build and train machine learning models using a wide range of algorithms and techniques, such as neural networks and deep learning. TensorFlow provides a flexible and scalable platform for building and deploying machine learning models on a variety of platforms, including CPUs, GPUs, and mobile devices. With its extensive documentation and large community of users, TensorFlow has become a popular choice for machine learning practitioners and researchers.
+
+
+Pandas:
+Pandas is a popular open-source Python library used for data manipulation, analysis, and visualization. It provides high-level data structures like DataFrames and Series, which allow users to efficiently work with and manipulate tabular data. Pandas also offers a wide range of functions for data cleaning, preparation, and transformation, making it a powerful tool for data preprocessing. Additionally, Pandas integrates well with other Python libraries, such as NumPy and Matplotlib, enabling users to create custom data analyses and visualizations.
+
+
+Scikit Learn:
+Scikit-learn is a popular open-source machine learning library for Python. It provides a range of supervised and unsupervised learning algorithms, such as classification, regression, clustering, and dimensionality reduction. Scikit-learn is designed to be easy to use and accessible to non-experts, while still providing advanced functionality for experienced machine learning practitioners. It also includes tools for data preprocessing, model selection, and model evaluation, making it a comprehensive package for machine learning tasks. With its wide range of algorithms and easy-to-use interface, Scikit-learn has become a go-to library for machine learning practitioners and researchers.
+
+Numpy:
+NumPy is a popular open-source Python library used for numerical computing. It provides support for arrays and matrices, along with a wide range of mathematical functions for operations on these arrays. NumPy's high-performance computing capabilities make it a fundamental tool for scientific computing and data analysis in Python
+
+
+MatplotLib:
+Matplotlib is a popular open-source Python library used for creating static, animated, and interactive visualizations in Python. It provides a wide range of plotting tools for creating charts, graphs, and other visualizations from data stored in NumPy arrays or Pandas DataFrames. With its flexible and customizable interface, Matplotlib is widely used for data visualization in various fields, including data science, engineering, and finance.
