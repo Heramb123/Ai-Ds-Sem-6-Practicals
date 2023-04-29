@@ -1,0 +1,33 @@
+
+Matplotlib is a widely used plotting library for Python that provides a variety of visualizations such as line plots, scatter plots, and histograms. It allows for extensive customization of plots and is a good choice for creating publication-quality figures.
+
+Plotly is a web-based data visualization library that provides interactive and dynamic visualizations. It offers a wide range of charts and graphs, including scatter plots, bar charts, heatmaps, and more. Plotly can be used with various programming languages, including Python, R, and JavaScript.
+
+Seaborn is a Python data visualization library based on Matplotlib that provides a high-level interface for creating informative and attractive statistical graphics. It offers several types of visualizations such as heatmaps, violin plots, and categorical plots, and provides easy-to-use functions for customizing plots with colors, styles, and themes.
+
+
+Histogram: A graphical representation of data distribution, where data is divided into bins or intervals and plotted as bars whose heights indicate the frequency of observations falling within each bin.
+
+3D Scatter Plot: A plot that represents the distribution of three variables using a set of points in a 3D coordinate system, where each axis represents one of the variables.
+
+Pair Plot: A plot that displays pairwise relationships between variables in a dataset using scatter plots and histograms.
+
+Pie Chart: A circular chart that displays the relative proportions of categories in a dataset, with each wedge representing a category and its size indicating its proportion.
+
+Count Chart: A bar chart that displays the count or frequency of a categorical variable.
+
+Point Plot: A plot that displays the mean or median of a numerical variable for each category of a categorical variable, along with the confidence interval.
+
+Box Plot: A graphical representation of the distribution of a numerical variable using a box and whisker plot, where the box represents the interquartile range, and the whiskers represent the range of the data.
+
+Line Plot: A plot that displays the relationship between two numerical variables using a line connecting the data points.
+
+Swarm Plot: A plot that displays the distribution of a categorical variable with a numerical variable using points that are jittered to avoid overlap.
+
+Heat Map: A plot that displays the relationship between two numerical variables using a color-coded grid, where each cell represents the joint frequency or density of the two variables.
+
+
+
+
+
+

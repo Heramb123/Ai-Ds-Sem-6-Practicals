@@ -1,0 +1,22 @@
+Spam mail filtering in Python involves using machine learning algorithms to identify and classify emails as either spam or not spam (also known as ham).
+
+Here are the general steps involved in building a spam mail filter in Python:
+
+Data Collection: Collect a dataset of emails that have been labelled as either spam or ham. There are several publicly available datasets of spam emails that you can use, such as the Enron-Spam dataset or the SpamAssassin Public Corpus.
+
+Data Preprocessing: Preprocess the email data to extract features that will be used to classify emails as spam or ham. This could involve removing stop words, converting all text to lowercase, and extracting features such as the frequency of certain words or phrases in the email.
+
+Feature Engineering: Transform the preprocessed data into a format that can be used by a machine learning algorithm. This may involve transforming the data into a matrix of numerical values that represents the frequency of each feature in each email.
+
+Model Training: Train a machine learning algorithm on the preprocessed data. Common algorithms used for spam filtering include Naive Bayes, Support Vector Machines, and Random Forests.
+
+Model Evaluation: Evaluate the performance of the trained model on a separate test dataset. Common evaluation metrics for spam filtering include accuracy, precision, recall, and F1 score.
+
+Model Deployment: Deploy the trained model to classify incoming emails as spam or ham in real-time.
+
+There are several libraries and frameworks available in Python that can be used to build a spam filter, including scikit-learn, TensorFlow, and Keras.
+
+
+
+
+

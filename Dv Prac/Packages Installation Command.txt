@@ -1,0 +1,14 @@
+Scikit learn:	pip install -U scikit-learn
+Pandas: 		pip install pandas
+Matplotlib:		pip install matplotlib
+seaborn:		pip install seaborn
+plotly:		pip install plotly
+nltk:			pip install nltk
+statsmodel:		pip install statsmodels
+vaderSentiment:	pip install vaderSentiment
+
+Squarify:		pip install squarify
+
+
+
+conda install -c "conda-forge/label/cf202003" r-irkernel

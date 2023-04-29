@@ -1,0 +1,13 @@
+Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. The goal of linear regression is to find the line of best fit that minimizes the distance between the observed values and the predicted values.
+
+In simple linear regression, there is only one independent variable and one dependent variable, and the relationship between the two is assumed to be linear. The line of best fit is represented by the equation:
+
+y = mx + b
+
+where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept.
+
+In multiple linear regression, there are multiple independent variables, and the line of best fit is represented by the equation:
+
+y = b0 + b1x1 + b2x2 + ... + bnxn
+
+where y is the dependent variable, x1, x2, ..., xn are the independent variables, and b0, b1, b2, ..., bn are the coefficients that represent the effect of each independent variable on the dependent variable.

@@ -1,0 +1,5 @@
+Text analysis is a process of extracting useful information from unstructured textual data. It involves several techniques, including natural language processing (NLP), machine learning, and data mining. Text analysis can help to discover patterns, relationships, and insights that are hidden in large volumes of unstructured text data.
+
+Sentiment analysis is a specific application of text analysis that involves identifying and extracting opinions, attitudes, and emotions expressed in text data. The goal of sentiment analysis is to determine whether a text has a positive, negative, or neutral sentiment. Sentiment analysis can be used to analyze customer feedback, social media posts, product reviews, and other forms of user-generated content to gain insights into customer satisfaction, brand perception, and market trends.
+
+Sentiment analysis can be performed using various techniques such as rule-based approaches, machine learning, and deep learning. Rule-based approaches involve using predefined rules to identify sentiment from text data. Machine learning techniques involve training models on labeled datasets to predict sentiment in new text da
